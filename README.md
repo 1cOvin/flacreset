@@ -1,4 +1,14 @@
-hi
+```py
+class flacreset():
+    def __init__(self):
+    self.username = "flacreset"
+    self.age = 14
+    self.contact = {
+    "Discord": "flacreset#0001"
+}
+
+```
+    
 
 
 <img src="https://komarev.com/ghpvc/?username=flacreset&color=252d70">
