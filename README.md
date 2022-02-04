@@ -1,13 +1,13 @@
 ```py
-class flacreset():
+class volvrip():
     def __init__(self):
-    self.username = "flacreset"
+    self.username = "volvrip"
     self.age = 14
     self.discord = {
-    "Discord": "flacreset#0001"
+    "Discord": "volvrip#0001"
 }
 
 if __name__ == '__main__':
-    flacreset()
+    volvrip()
 
 ```
